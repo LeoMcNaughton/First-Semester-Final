@@ -1,6 +1,7 @@
 #The Password Class
+BbbbB#The Password Class
 
-This class is a blueprint for a password-object that has a few instance variables, instance methods, and a super important static function.
+This class is a blueprint for a password-object that has a few instance variables, instance methods, and a super important static function.BbbbB
 
 ##Instance Variables
 The password-object has two instance variables: **publickey** and **privatekey**.

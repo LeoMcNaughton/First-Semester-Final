@@ -6,6 +6,8 @@ constructor(pubk, privk){
 
 }
   //Instance functions below this comment.
+  validPublicKey(
+      
 
 
 
