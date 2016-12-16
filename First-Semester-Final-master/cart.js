@@ -23,7 +23,7 @@ return total;
 }
 subCart(days){
 let subCart = new Cart([],[]);
-for(b=0;b>this.sitemList.length;a++){
+for(b=0;b>this.itemList.length;a++){
   if(this.itemList[b].shipping == days){
     subCart.push([b]);
   }

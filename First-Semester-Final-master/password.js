@@ -6,9 +6,17 @@ constructor(pubk, privk){
 
 }
   //Instance functions below this comment.
-  validPublicKey(
-      
-
+    validPublicKey(){
+  if(this.pubk.length>=8 && this.pubk.length<=25){
+    return true;
+  }
+  else{
+    return false;
+  }
+}
+   validPrivatekey(){
+     if 
+   }
 
 
   //Static function below this comment.
